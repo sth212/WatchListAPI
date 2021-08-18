@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ae04b02-70d8-45e5-aa2b-d0ebff61c36a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Models/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Models/BankResult.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/BanksController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Models/Bank.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Configuration.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/UserController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Repos/BankRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Repos/UserRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WatchListAPI/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1pnHrbn89wGGa3j8o5ufqnUps3C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="D:\Projects&gt;spring init --name=contact-app --dependencies=web,data-jpa,postgresql,lombok --package-name=com.dariawan.contactapp spring-boot-jpa-hibernate-pgsql Using service at https://start.spring.io Project extracted to 'D:\Projects\spring-boot-jpa-hibernate-pgsql'" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Payroll" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Payroll.PayrollApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae04b02-70d8-45e5-aa2b-d0ebff61c36a" name="Default Changelist" comment="" />
+      <created>1615812136883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615812136883</updated>
+      <workItem from="1615812138137" duration="2392000" />
+      <workItem from="1615828529892" duration="21491000" />
+      <workItem from="1616424123866" duration="576000" />
+      <workItem from="1616588485954" duration="599000" />
+      <workItem from="1617097341839" duration="4386000" />
+      <workItem from="1618135106005" duration="612000" />
+      <workItem from="1618137300507" duration="75906000" />
+      <workItem from="1618622499706" duration="1192000" />
+      <workItem from="1618826830013" duration="1859000" />
+      <workItem from="1619350740525" duration="1843000" />
+      <workItem from="1620127922829" duration="4731000" />
+      <workItem from="1620219080247" duration="6695000" />
+      <workItem from="1621233505085" duration="1834000" />
+      <workItem from="1624451840889" duration="2917000" />
+      <workItem from="1629281775619" duration="720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/SessionsController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/SessionsController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/BanksController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/BanksController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/BanksController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Repos/BankRepository.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Controller/BanksController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/../WatchListAPI/src/main/java/com/example/Payroll/Models/User.java</url>
+          <line>32</line>
+          <properties field="Public_Key" class="com.example.Payroll.Models.User" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="pagedResult.getNumber()" language="JAVA" />
+        <watch expression="pagedResult.getContent()" language="JAVA" />
+        <watch expression="if(name==&quot;&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
